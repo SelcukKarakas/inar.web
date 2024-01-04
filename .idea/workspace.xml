@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4785ef2c-3ef3-4418-aafb-10cd36599558" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_001_LP_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_002_LP_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_003_LP_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_004_CF_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_005_CF_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_006_OP_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_007_OP_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_008_OP_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_009_OP_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_010_OP_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_011_OP_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_012_VAO_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_013_VAO_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WO_014_VAO_03.java" afterDir="false" />
-    </list>
+    <list default="true" id="4785ef2c-3ef3-4418-aafb-10cd36599558" name="Changes" comment="Updated Week17 WO_001-WO_014" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +41,10 @@
     "JUnit.WO_008_OP_03.executor": "Run",
     "JUnit.WO_009_OP_04.executor": "Run",
     "JUnit.WO_010_OP_05.executor": "Run",
+    "JUnit.WO_011_OP_06.executor": "Run",
+    "JUnit.WO_012_VAO_01.executor": "Run",
+    "JUnit.WO_013_VAO_02.executor": "Run",
+    "JUnit.WO_014_VAO_03.executor": "Run",
     "Maven.inar.academy.weborder [clean].executor": "Run",
     "Maven.inar.academy.weborder [install].executor": "Run",
     "Maven.inar.academy.weborder [io.spring.javaformat:spring-javaformat-maven-plugin:0.0.38:apply].executor": "Run",
@@ -155,6 +137,19 @@
       <option name="presentableId" value="Default" />
       <updated>1704206728796</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated Week17 WO_001-WO_014">
+      <option name="closed" value="true" />
+      <created>1704376377457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704376377457</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated Week17 WO_001-WO_014" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Week17 WO_001-WO_014" />
   </component>
 </project>
