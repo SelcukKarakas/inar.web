@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -54,7 +59,7 @@
     "Maven.inar.academy.weborder [org.apache.maven.plugins:maven-surefire-plugin:3.2.3:test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "https/github.com/SelcukKarakas/inar.web",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/LENOVO T480/Desktop/workspace/inar.web/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
@@ -164,7 +169,55 @@
       <option name="project" value="LOCAL" />
       <updated>1704376976349</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated Week17 WO_001-WO_014">
+      <option name="closed" value="true" />
+      <created>1704377260118</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704377260118</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated Week17 WO_001-WO_014">
+      <option name="closed" value="true" />
+      <created>1704377318245</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704377318245</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated Week17 WO_001-WO_014">
+      <option name="closed" value="true" />
+      <created>1704377457494</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704377457494</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated Week17 WO_001-WO_014">
+      <option name="closed" value="true" />
+      <created>1704377539230</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704377539230</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated Week17 WO_001-WO_014">
+      <option name="closed" value="true" />
+      <created>1704377822486</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704377822486</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated Week17 WO_001-WO_014">
+      <option name="closed" value="true" />
+      <created>1704377864627</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704377864627</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
