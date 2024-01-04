@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4785ef2c-3ef3-4418-aafb-10cd36599558" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_001_LP_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_002_LP_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_003_LP_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_004_CF_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_005_CF_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_006_OP_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_007_OP_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_008_OP_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_009_OP_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_010_OP_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_011_OP_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_012_VAO_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_013_VAO_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WO_014_VAO_03.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2aP499AeWWWXg6YkNxGDie6IvUt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.WO_004_CF_01.executor": "Run",
+    "JUnit.WO_005_CF_02.executor": "Run",
+    "JUnit.WO_006_OP_01.executor": "Run",
+    "JUnit.WO_007_OP_02.executor": "Run",
+    "JUnit.WO_008_OP_03.executor": "Run",
+    "JUnit.WO_009_OP_04.executor": "Run",
+    "JUnit.WO_010_OP_05.executor": "Run",
+    "Maven.inar.academy.weborder [clean].executor": "Run",
+    "Maven.inar.academy.weborder [install].executor": "Run",
+    "Maven.inar.academy.weborder [io.spring.javaformat:spring-javaformat-maven-plugin:0.0.38:apply].executor": "Run",
+    "Maven.inar.academy.weborder [org.apache.maven.plugins:maven-surefire-plugin:3.2.3:test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/LENOVO T480/Desktop/workspace/inar.web/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="java.lang" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WO_014_VAO_03">
+    <configuration name="WO_010_OP_05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar.web" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_010_OP_05" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_011_OP_06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar.web" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_011_OP_06" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_012_VAO_01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar.web" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_012_VAO_01" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_013_VAO_02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar.web" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_013_VAO_02" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WO_014_VAO_03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inar.web" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WO_014_VAO_03" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WO_014_VAO_03" />
+        <item itemvalue="JUnit.WO_013_VAO_02" />
+        <item itemvalue="JUnit.WO_012_VAO_01" />
+        <item itemvalue="JUnit.WO_011_OP_06" />
+        <item itemvalue="JUnit.WO_010_OP_05" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-249ae16d76d6-98297cd8" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4785ef2c-3ef3-4418-aafb-10cd36599558" name="Changes" comment="" />
+      <created>1704206728796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704206728796</updated>
+    </task>
+    <servers />
+  </component>
+</project>
